@@ -1,4 +1,4 @@
 # SoftUni---Advanced-OOP.py
-All exercises that I've done through fundamentals.
+All exercises that I've done through Advanced and OOP with Python.
 
-![SoftUni Logo](images/softUni_logo_1.png)
+![Rem](images/rem_animepromo.png)
