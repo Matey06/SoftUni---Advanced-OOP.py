@@ -12,9 +12,7 @@ while True:
 
     guests.discard(going_to_party)
 
-not_partying = [person for person in guests]
-not_partying.sort()
-
-print(f'{len(not_partying)}')
-for person in not_partying:
+print(f'{len(guests)}')
+sorted_guests = sorted(guests)
+for person in sorted_guests:
     print(person)
