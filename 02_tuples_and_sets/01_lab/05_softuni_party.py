@@ -2,7 +2,8 @@ number_of_guests = int(input())
 guests = set()
 
 for _ in range(number_of_guests):
-    guests.add(input())
+    reservation = input()
+    guests.add(reservation)
 
 while True:
     going_to_party = input()
