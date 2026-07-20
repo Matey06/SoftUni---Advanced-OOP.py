@@ -3,12 +3,14 @@
   <component name="PySourceRootDetectionService">
     <option name="sourcePathsSet">
       <set>
+        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/02_exercise/02_movie_world" />
         <option value="$PROJECT_DIR$/02_oop/03_inheritance/02_exercise/04_need_for_speed" />
         <option value="$PROJECT_DIR$/02_oop/04_encapsulation/02_exercise/02_pizza_maker" />
+        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/01_lab/04_hotel_rooms" />
+        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/04_hotel_rooms" />
         <option value="$PROJECT_DIR$/02_oop/04_encapsulation/02_exercise/03_football_team_generator" />
         <option value="$PROJECT_DIR$/02_oop/04_encapsulation/02_exercise/04_restaurant" />
-        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/04_hotel_rooms" />
-        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/01_lab/04_hotel_rooms" />
+        <option value="$PROJECT_DIR$/02_oop/05_static_and_class_methods/02_exercise/03_document_management" />
       </set>
     </option>
   </component>
